@@ -11,7 +11,7 @@ I'm also using a TP4056 LiPol charger.
 
 For the connections I'm using some cheap chinese cables, two medium sized solderless breadboards and four electrical quick couplers.
 
-Robot is programmed in MicroPython and uses a HC-SR04 driver library created by Roberto Sánchez.
+Robot is programmed in MicroPython and uses a HC-SR04 driver library created by Roberto Sánchez (https://github.com/rsc1975/micropython-hcsr04).
 
 Feel free to use this idea, improve it and publish your modified versions.
 
