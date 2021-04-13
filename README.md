@@ -10,3 +10,7 @@ The power supply is a cheap 3,7 V LiPol battery - currently 2200 mAh.
 I'm also using a TP4056 LiPol charger.
 
 For the connections I'm using some cheap chinese cables, two medium sized solderless breadboards and 4 electrical quick couplers.
+
+Robot is programmed in MicroPython.
+
+Feel free to use this idea, improve it and publish your modified versions.
