@@ -3,19 +3,19 @@ Repository for hosting a hobbyst spider robot project.
 
 The project is built around a Raspberry Pi Pico development board.
  
-It's also using Cytron Maker Drive DC engine control board, HC-SR04 ultrasonic distance sensor and a bidirectional logic level convertion board.
-The movement and mehcanics is based on DC motors and mechanics from two DFRobot Spider Robot kits.
+It's also using Cytron Maker Drive DC motor control board, HC-SR04 ultrasonic distance sensor and a bidirectional logic level convertion board.
+The movement and is based on DC motors and mechanisms from two DFRobot Spider Robot kits.
 The power supply is a cheap 3,7 V LiPol battery - currently 2200 mAh.
 
 I'm also using a TP4056 LiPol charger.
 
 For the connections I'm using some cheap chinese cables, two medium sized solderless breadboards and four electrical quick couplers.
 
-Robot is programmed in MicroPython and uses a HC-SR04 driver library created by Roberto Sánchez (https://github.com/rsc1975/micropython-hcsr04).
+The robot is programmed in MicroPython and uses a HC-SR04 driver library created by Roberto Sánchez (https://github.com/rsc1975/micropython-hcsr04).
 
-Feel free to use this idea, improve it and publish your modified versions.
+Feel free to use this idea, improve it and publish your modified versions (let me know if you do it), according do the license specified on githb and in the main.py source code file.
 
-Bellow you can find link to the part listed above (on their producers or distrubutors web pages).
+Bellow you can find links to the parts listed above (on their producers or distrubutors web pages).
 
 Raspberry Pi Pico: https://www.raspberrypi.org/products/raspberry-pi-pico/
 
